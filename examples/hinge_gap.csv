@@ -1,0 +1,7 @@
+name,nominal,plus,minus,direction,dist
+housing_cavity_width,40.00,0.10,0.10,1,normal
+left_wall_spacer,2.00,0.05,0.05,-1,normal
+pcb_width,30.00,0.10,0.10,-1,normal
+connector_overhang,1.50,0.15,0.05,-1,normal
+right_wall_spacer,2.00,0.05,0.05,-1,normal
+foam_pad_compressed,4.10,0.20,0.20,-1,uniform
